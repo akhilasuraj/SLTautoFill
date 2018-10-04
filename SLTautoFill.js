@@ -12,8 +12,8 @@
 (function() {
     'use strict';
 
-    var username = 94373121984;
-    var password = "970222839AkhilaSuraj";
+    var username = "username";
+    var password = "password";
     document.querySelector("div > div > div.col-md-8 > div:nth-child(1) > div > div.col-md-8 > div:nth-child(1) > div > form#j_idt6 > div:nth-child(2) > div > input").value = username;
     document.querySelector("div > div > div.col-md-8 > div:nth-child(1) > div > div.col-md-8 > div:nth-child(1) > div > form#j_idt6 > div:nth-child(3) > div.col-sm-8 > input").value = password;
 
