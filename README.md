@@ -11,5 +11,5 @@ even though it's a tiny code with few lines in it, it saved me from a great trou
 
 just open the <a href="https://github.com/akhilasuraj/SLTautoFill/blob/master/SLTautoFill.js"> SLTautoFill.js </a> with a simple text editor like notepad and edit as shown below.
 
-
+<img src="https://github.com/akhilasuraj/SLTautoFill/blob/master/howToSetup.png">
 
